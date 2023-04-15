@@ -1,0 +1,15 @@
+
+@media (max-width: 767.98px) {
+    .who-are-we{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .who-are-we .description{
+        width: 100% !important;
+    }
+
+    .who-are-we .video {
+        width: 100% !important;
+    }
+}
