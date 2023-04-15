@@ -12,4 +12,9 @@
     .who-are-we .video {
         width: 100% !important;
     }
+
+    .latest-projects .row .col-lg-4{
+        justify-content: center;
+        display: flex;
+    }
 }
