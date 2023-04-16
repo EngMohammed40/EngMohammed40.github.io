@@ -17,4 +17,9 @@
         display: flex;
         justify-content: center;
     }
+    .single-project .project-img{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px;
+    }
 }

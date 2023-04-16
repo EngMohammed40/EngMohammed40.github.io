@@ -178,3 +178,31 @@ footer .contact-item{
 footer .contact-item .icon{
     margin: 0 10px;
 }
+
+.single-project .project-title{
+    padding-bottom: 150px;
+}
+.single-project .project-title h1::after{
+    content: '';
+    display: block;
+    width: 100px;
+    height: 3px;
+    background-color: var(--main-color);
+    margin: 10px auto;
+    position: absolute;
+    left: 50%;
+}
+.single-project .description{
+    width: 80%;
+    margin: auto;
+}
+.single-project .counerts{
+    display: flex;
+    justify-content: space-evenly;
+}
+.single-project .image{
+    margin: 10px 0;
+}
+.contact .map{
+    width: 100% !important;
+}
