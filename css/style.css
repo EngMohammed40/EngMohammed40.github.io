@@ -42,6 +42,11 @@ nav a {
 nav .collapse {
     justify-content: flex-start;
 }
+.navbar-brand{
+    position: absolute;
+    left: 0;
+    top: 0%;
+}
 .overlay {
     position: absolute;
     top: 0;

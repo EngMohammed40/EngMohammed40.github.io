@@ -22,6 +22,21 @@
         justify-content: center;
         margin-bottom: 20px;
     }
+
+}
+
+@media (max-width: 992px) {
+    .navbar-nav{
+        background-color: #fff;
+        padding: 0 30px;
+        margin-top: 5px;
+    }
+    .navbar-nav a{
+        color: #000 !important;
+    }
+    .navbar-nav .nav-item{
+        text-align: justify !important;
+    }
 }
 
 @media (max-width: 575.98px) {
@@ -29,4 +44,6 @@
         width: 100%;
         height: 200px;
     }
+
+ 
 }
