@@ -126,6 +126,10 @@ header .header-text a{
     text-align: center;
 }
 
+.bx-wrapper{
+    box-shadow: none !important;
+    border: none !important;
+}
 
 .who-are-we video{
     max-width: 100%;
