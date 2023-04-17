@@ -89,6 +89,9 @@ header .header-text, header .header-text a{
     /* transform: translateY(100%); */
     position: relative;
 }
+header .header-text{
+    top: 50%;
+}
 header .header-text h1{
     font-size: 2.5rem;
 }
